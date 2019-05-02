@@ -1,0 +1,71 @@
+:{"identifier":"VL-0","r":[{"assault":0.881},{"automatic":1.094},{"firearm":1.049},{"gun":1.138},{"he
+	Top Terms: 
+		automatic                               =>   1.547837257385254
+		pistol                                  =>   1.547837257385254
+		revolver                                =>   1.547837257385254
+		gun                                     =>  1.5421117146809895
+		rifle                                   =>  1.4054651260375977
+		weapon                                  =>  1.0944862365722656
+		firearm                                 =>  1.0493061542510986
+		assault                                 =>  0.8810700178146362
+		uzi                                     =>  0.8698126475016276
+		semi                                    =>  0.8698126475016276
+		shotgun                                 =>  0.8698126475016276
+		object                                  =>  0.4349063237508138
+		koch                                    =>  0.4349063237508138
+		heckler                                 =>  0.4349063237508138
+		knife                                   =>  0.3497687180836995
+		semiautomatic                           =>  0.3193817933400472
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.11207220839051213]: [{"assault":1.762},{"automatic":2.322},{"firearm":2.099},{"gun":2.71},{"pistol":2.322},{"revolver":2.322},{"rifle":1.405},{"uzi":2.609},{"weapon":3.283}]
+	1.0 : [distance=0.5085755666187366]: [{"firearm":2.099},{"object":2.609},{"revolver":2.322},{"rifle":1.405}]
+	1.0 : [distance=0.365423405896272]: [{"automatic":2.322},{"pistol":2.322},{"rifle":1.405},{"semi":2.609},{"shotgun":2.609}]
+	1.0 : [distance=0.19089655326791843]: [{"automatic":2.322},{"gun":1.916},{"pistol":2.322},{"revolver":2.322},{"rifle":1.405},{"semi":2.609},{"shotgun":2.609}]
+:{"identifier":"VL-14","r":[{"assault":1.233},{"cutting":1.291},{"firearm":0.948},{"gun":0.671},{"ins
+	Top Terms: 
+		instrument                              =>  1.4641037668500627
+		unknown                                 =>  1.4271489552089147
+		weapon                                  =>  1.4071965898786272
+		semiautomatic                           =>   1.368779114314488
+		assault                                 =>   1.258671454020909
+		other                                   =>  1.1324243545532227
+		cutting                                 =>  1.1183305467878069
+		type                                    =>  1.1183305467878069
+		threat                                  =>  1.1183305467878069
+		rifle                                   =>  0.8862890345709664
+		uzi                                     =>   0.745553697858538
+		mac                                     =>  0.6091023853846959
+		firearm                                 =>  0.5996035167149135
+		knife                                   => 0.29980175835745676
+		gun                                     =>  0.2737558228628976
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.6437424577826423]: [{"instrument":3.283}]
+	1.0 : [distance=0.742229834535462]: [{"knife":2.099},{"threat":2.609}]
+	1.0 : [distance=0.4138915790514194]: [{"assault":3.524},{"mac":4.264},{"rifle":1.988},{"semiautomatic":3.833},{"weapon":3.283}]
+	1.0 : [distance=0.4748445180414139]: [{"cutting":2.609},{"firearm":2.099},{"instrument":2.322},{"other":3.283}]
+	1.0 : [distance=0.3600610964911465]: [{"assault":1.762},{"firearm":2.099},{"gun":1.916},{"rifle":1.405},{"semiautomatic":1.916},{"type":2.609},{"unknown":2.609}]
+	1.0 : [distance=0.056759663972615004]: [{"assault":1.762},{"cutting":2.609},{"instrument":2.322},{"other":2.322},{"rifle":1.405},{"semiautomatic":1.916},{"threat":2.609},{"type":2.609},{"unknown":3.69},{"uzi":2.609},{"weapon":3.283}]
+:{"identifier":"VL-12","r":[{"assault":0.763},{"blade":0.416},{"gun":0.958},{"heckler":1.13},{"knife"
+	Top Terms: 
+		blade                                   =>    2.56218159198761
+		razor                                   =>  2.2272945642471313
+		knife                                   =>  1.4333788752555847
+		pipe                                    =>  1.0659291744232178
+		gun                                     =>  0.9581453800201416
+		koch                                    =>  0.6523594856262207
+		heckler                                 =>  0.6523594856262207
+		other                                   =>  0.5804389715194702
+		semiautomatic                           =>  0.4790726900100708
+		assault                                 =>  0.4405350089073181
+		rifle                                   =>  0.3513662815093994
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.546158311675687]: [{"assault":1.762},{"gun":1.916},{"heckler":2.609},{"knife":2.099},{"koch":2.609},{"rifle":1.405},{"semiautomatic":1.916}]
+	1.0 : [distance=0.3228730154216547]: [{"assault":1.762},{"blade":3.283},{"heckler":2.609},{"knife":3.635},{"koch":2.609},{"rifle":1.405},{"semiautomatic":1.916}]
+	1.0 : [distance=0.19246848878816258]: [{"blade":2.322},{"knife":2.099},{"other":2.322},{"pipe":4.264},{"razor":3.69}]
+	1.0 : [distance=0.1811028064464324]: [{"blade":2.322},{"gun":1.916},{"razor":2.609}]
+{"identifier":"VL-3","r":[],"c":[{"animal":4.264},{"object":2.609}],"n":2}
+	Top Terms: 
+		animal                                  =>   4.263716697692871
+		object                                  =>   2.609437942504883
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0]: [{"animal":4.264},{"object":2.609}]
